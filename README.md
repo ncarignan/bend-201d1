@@ -1,6 +1,6 @@
 # Code 201: Foundations of Software Development
-
-Welcome to Code 201! This is a class that builds on your foundational knowledge of HTML, CSS, JavaScript, Git, and general web development, to prepare you for the deep dive of the Code 301 class.
+vi
+Welcome to Code 201! This is a class that builds on your foundational knowledge of Sports, and general web development, to prepare you for the deep dive of the Code 301 class.video gaming activities
 
 ## Introduction
 
@@ -10,7 +10,7 @@ Daytime Track  | Nights & Weekends Track    | Topic
 -----------|--------------|---------------
 Week 1     | Week 1 and 2 | Basic HTML, CSS, & Javascript
 Week 2     | Week 3 and 4 | OOP & working with the DOM
-Week 3     | Week 5 and 6 | Events & working with libraries
+Week 3     | Week 5 and 6 | Events & working with librariesc
 Week 4     | Week 7 and 8 | Project Week
 
 ## Demos from class
