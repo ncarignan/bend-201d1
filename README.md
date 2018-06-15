@@ -1,6 +1,8 @@
 # Code 201: Foundations of Software Development
+
 vi
 Welcome to Code 201! This is a class that builds on your foundational knowledge of Sports, and general web development, to prepare you for the deep dive of the Code 301 class.video gaming activities
+
 
 ## Introduction
 
